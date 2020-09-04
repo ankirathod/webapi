@@ -1,0 +1,11 @@
+/home/ankitr/learning/webapi/webapi/src/console/bin/Debug/netcoreapp3.1/console
+/home/ankitr/learning/webapi/webapi/src/console/bin/Debug/netcoreapp3.1/console.deps.json
+/home/ankitr/learning/webapi/webapi/src/console/bin/Debug/netcoreapp3.1/console.runtimeconfig.json
+/home/ankitr/learning/webapi/webapi/src/console/bin/Debug/netcoreapp3.1/console.runtimeconfig.dev.json
+/home/ankitr/learning/webapi/webapi/src/console/bin/Debug/netcoreapp3.1/console.dll
+/home/ankitr/learning/webapi/webapi/src/console/bin/Debug/netcoreapp3.1/console.pdb
+/home/ankitr/learning/webapi/webapi/src/console/obj/Debug/netcoreapp3.1/console.csprojAssemblyReference.cache
+/home/ankitr/learning/webapi/webapi/src/console/obj/Debug/netcoreapp3.1/console.AssemblyInfoInputs.cache
+/home/ankitr/learning/webapi/webapi/src/console/obj/Debug/netcoreapp3.1/console.AssemblyInfo.cs
+/home/ankitr/learning/webapi/webapi/src/console/obj/Debug/netcoreapp3.1/console.dll
+/home/ankitr/learning/webapi/webapi/src/console/obj/Debug/netcoreapp3.1/console.pdb
