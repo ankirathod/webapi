@@ -6,7 +6,7 @@ namespace console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! by Ankit Rathod");
+            Console.WriteLine("Hello World!");
         }
     }
 }
